@@ -1,0 +1,49 @@
+{
+    "cars": [
+        {
+            "SL_No": 1,
+            "Veh_Id": "1A",
+            "Veh_brand": "MAN",
+            "Veh_No.": "KA-01-MB-1234",
+            "Veh_Colour": "WHITE",
+            "Veh_price": "10000000",
+            "min_increment": "5000000"
+        },
+        {
+            "SL_No": 2,
+            "Veh_Id": "2V",
+            "Veh_brand": "SCANIA",
+            "Veh_No.": "KA-01-MB-1256",
+            "Veh_Colour": "VIOLET",
+            "Veh_price": "10000000",
+            "min_increment": "5000000"
+        },
+        {
+            "SL_No": 3,
+            "Veh_Id": "3D",
+            "Veh_brand": "EICHER",
+            "Veh_No.": "KA-03-MB-1423",
+            "Veh_Colour": "RED",
+            "Veh_price": "10000000",
+            "min_increment": "5000000"
+        },
+        {
+            "SL_No": 4,
+            "Veh_Id": "4D",
+            "Veh_brand": "TATA",
+            "Veh_No.": "KA-09-MC-9023",
+            "Veh_Colour": "BLUE",
+            "Veh_price": "10000000",
+            "min_increment": "5000000"
+        },
+        {
+            "SL_No": 5,
+            "Veh_Id": "5P",
+            "Veh_brand": "ASHOK LEY.",
+            "Veh_No.": "KA-03-AB-1028",
+            "Veh_Colour": "BLACK",
+            "Veh_price": "10000000",
+            "min_increment": "5000000"
+        }
+    ]
+}
