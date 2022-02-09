@@ -7,7 +7,7 @@
             "Veh_No.": "KA-01-MB-1234",
             "Veh_Colour": "WHITE",
             "Veh_price": "10000000",
-            "min_increment": "5000000"
+            "min_increment": "100000"
         },
         {
             "SL_No": 2,
@@ -15,8 +15,8 @@
             "Veh_brand": "SCANIA",
             "Veh_No.": "KA-01-MB-1256",
             "Veh_Colour": "VIOLET",
-            "Veh_price": "10000000",
-            "min_increment": "5000000"
+            "Veh_price": "156000000",
+            "min_increment": "50000"
         },
         {
             "SL_No": 3,
@@ -24,8 +24,8 @@
             "Veh_brand": "EICHER",
             "Veh_No.": "KA-03-MB-1423",
             "Veh_Colour": "RED",
-            "Veh_price": "10000000",
-            "min_increment": "5000000"
+            "Veh_price": "80000000",
+            "min_increment": "45000"
         },
         {
             "SL_No": 4,
@@ -33,8 +33,8 @@
             "Veh_brand": "TATA",
             "Veh_No.": "KA-09-MC-9023",
             "Veh_Colour": "BLUE",
-            "Veh_price": "10000000",
-            "min_increment": "5000000"
+            "Veh_price": "76000000",
+            "min_increment": "200000"
         },
         {
             "SL_No": 5,
@@ -42,8 +42,8 @@
             "Veh_brand": "ASHOK LEY.",
             "Veh_No.": "KA-03-AB-1028",
             "Veh_Colour": "BLACK",
-            "Veh_price": "10000000",
-            "min_increment": "5000000"
+            "Veh_price": "46000000",
+            "min_increment": "100000"
         }
     ]
 }
